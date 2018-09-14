@@ -26,7 +26,7 @@ date: $date
 $2
 
 
-> Jacob Pan [( jacobpan3g.github.io/cn )](http://jacobpan3g.github.io/cn)
+> Gning [( sohoarea.com )](http://sohoarea.com)
 " > $1
 }
 
