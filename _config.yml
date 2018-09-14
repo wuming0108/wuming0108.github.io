@@ -28,8 +28,13 @@ description_footer:
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+#duoshuo_shortname: #hygblog
+#disqus_shortname: #gaohaoyang
+
+#gitment
+comment_gitment_repo: wuming0108.github.io
+comment_gitment_clientId: f18415a302b96a5bfb4a
+comment_gitment_clientSecret: e38bb0c1da0fe40512d4fa077704d3c64e42d120
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
