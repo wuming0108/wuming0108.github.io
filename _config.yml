@@ -44,8 +44,7 @@ github_username:  wuming0108
 #google_analytics_id:  # google 分析追踪id
 
 # Build settings
-markdown: kramdown
-excerpt_separator:  '<!-- more -->'
+markdown: kramdown 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
