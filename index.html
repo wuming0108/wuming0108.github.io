@@ -10,6 +10,7 @@ layout: default
         <div></div>
         <hr>
         <ul>
+            {{ post.excerpt | strip_html }}
             {% for post in paginator.posts %}
               <li>
                 <h2>
