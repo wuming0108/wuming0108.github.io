@@ -9,8 +9,7 @@ layout: default
         <small>{{site.motto}}</small>
         <div></div>
         <hr>
-        <ul>
-            {{ post.excerpt | strip_html }}
+        <ul> 
             {% for post in paginator.posts %}
               <li>
                 <h2>
